@@ -11,7 +11,7 @@ SQL → Python → Airflow → Snowflake + dbt → Kafka → AWS → Azure
 
 ![SQL](https://img.shields.io/badge/SQL-Learning-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Next-blue?style=for-the-badge)
-...baaki badges
+
 
 ## 📂 What I'm working on
 
