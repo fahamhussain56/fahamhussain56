@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Syed Faham Hussain
 
-<!--
-**fahamhussain56/fahamhussain56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learner | Multi-Cloud Data Engineering (SMIT)
+☁️ Currently learning: SQL (CTEs, window functions)
 
-Here are some ideas to get you started:
+## 🗺️ Learning Roadmap
+SQL → Python → Airflow → Snowflake + dbt → Kafka → AWS → Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What I'm working on
+- SQL practice on the BikeStores database
+
+## 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/syed-faham-hussain-b85a943a1/)
