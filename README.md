@@ -22,4 +22,11 @@ SQL → Python → Airflow → Snowflake + dbt → Kafka → AWS → Azure
 
 ## 📂 What I'm working on
 - SQL practice on the BikeStores database
-- 
+
+## 🤝 Let's Connect
+
+| Channel | Link |
+|---------|------|
+| 📧 Email | [syedfahamhussain56@gmail.com](mailto:syedfahamhussain56@gmail.com) |
+| 🔗 LinkedIn | [linkedin.com/in/syed-faham-hussain-b85a943a1](https://www.linkedin.com/in/syed-faham-hussain-b85a943a1/) |
+| 💻 GitHub | [github.com/fahamhussain56](https://github.com/fahamhussain56) |
